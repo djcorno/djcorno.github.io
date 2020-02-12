@@ -5,7 +5,7 @@ excerpt: "Hoe werkt het en welke dingen zijn mogelijk"
 tags: ["DJ", "muziek", "boxen"]
 header:
   image: /assets/images/stock.png
-permalink: /equipment
+permalink: /equipment/
 ---
 
 ## Hoe werkt het
