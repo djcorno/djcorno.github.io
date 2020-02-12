@@ -5,7 +5,7 @@ excerpt: "Muziek overzicht"
 tags: ["DJ", "muziek"]
 header:
   image: /assets/images/stock.png
-permalink: /music
+permalink: /music/
 ---
 
 ## Muziek genres
