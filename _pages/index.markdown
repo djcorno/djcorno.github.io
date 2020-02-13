@@ -1,13 +1,6 @@
 ---
-layout: single
-excerpt: "Home page DJ Corno"
+layout: search
+excerpt: "Home page"
 tags: ["DJ"]
-header:
-  image: /assets/images/stock.png
-author_profile: true
+author_profile: false
 permalink: /
----
-
-## Voor al uw feestjes
-
-Bent u opzoek naar een DJ die zorgt dat uw dansvloer vol staat dan bent u op de juiste pagina beland
