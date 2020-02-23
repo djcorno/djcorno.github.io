@@ -8,7 +8,7 @@ header:
 permalink: /music/
 ---
 
-## Muziek genres
+## Genres
 
 Als DJ is het soort muziek natuurlijk afhankelijk van de wat er in de smaak valt van de feest gangers. 
 Onderstaande een lijst aan soorten muziek die ik vaak draai. 

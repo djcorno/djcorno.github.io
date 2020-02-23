@@ -1,9 +1,13 @@
 main:
   - title: "Home"
     url: /
-  - title: "Muziek"
-    url: /music/
-  - title: "Aankleding"
-    url: /equipment/
-  - title: "Gallerij"
+  - title: "Impressie"
     url: /photos/
+  - title: "Mogelijkheden"
+    url: /music/
+  - title: "Techniek"
+    url: /equipment/
+  - title: "Biografie"
+    url: /bio/
+  - title: "Contact"
+    url: /contact/  
