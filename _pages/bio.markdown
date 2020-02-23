@@ -6,7 +6,7 @@ tags: ["DJ", "verhaal", "about", "me", "persoonlijk"]
 header:
   image: /assets/images/stock.png
 author_profile: true
-permalink: /bio
+permalink: /bio/
 ---
 
 

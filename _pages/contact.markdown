@@ -6,7 +6,7 @@ tags: ["DJ", "Contact", "email", "telefoon", "boeken"]
 header:
   image: /assets/images/stock.png
 author_profile: true
-permalink: /contact
+permalink: /contact/
 ---
 
 Wilt u boeken of aanvullende info. Neem dan gerust contact op:
