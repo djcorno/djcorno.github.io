@@ -50,9 +50,12 @@ author:
   name     : "Corno Hardeman"
   avatar   : "/assets/images/corno.jpg"
   links    :
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/DJ-Corno-101236478147499/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:corno.hardemank@gmail.com"
+      url: "mailto:info@djcorno.nl"
 
 
 # Exclude from processing.
