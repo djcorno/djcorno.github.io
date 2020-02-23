@@ -10,4 +10,6 @@ permalink: /home/
 
 ## Voor al uw feestjes
 
-Bent u opzoek naar een DJ die zorgt dat uw dansvloer vol staat dan bent u op de juiste pagina beland
+Bent u opzoek naar een DJ die zorgt dat uw dansvloer vol staat dan bent u op de juiste pagina beland 
+
+Even een aanpassing
