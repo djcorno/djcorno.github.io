@@ -4,7 +4,7 @@ title: "Mogelijkheden"
 excerpt: "Overzicht van de mogelijkheden die ik bied"
 tags: ["DJ", "muziek", "Mogelijkheden", "genres"]
 header:
-  image: /assets/images/stock.png
+  image: /assets/images/header.png
 permalink: /music/
 ---
 

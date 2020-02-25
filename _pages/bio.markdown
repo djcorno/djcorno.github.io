@@ -4,7 +4,7 @@ title: "Over mij"
 excerpt: "Verhaal over DJ Corno"
 tags: ["DJ", "verhaal", "about", "me", "persoonlijk"]
 header:
-  image: /assets/images/stock.png
+  image: /assets/images/header.png
 author_profile: true
 permalink: /bio/
 ---

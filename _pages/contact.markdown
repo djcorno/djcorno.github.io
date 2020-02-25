@@ -4,7 +4,7 @@ title: "Contact"
 excerpt: "Contact pagina van DJ Corno"
 tags: ["DJ", "Contact", "email", "telefoon", "boeken"]
 header:
-  image: /assets/images/stock.png
+  image: /assets/images/header.png
 author_profile: true
 permalink: /contact/
 ---

@@ -4,7 +4,7 @@ title: "Party DJ Corno voor een supergeslaagd feest!!"
 excerpt: "Home page DJ Corno"
 tags: ["DJ"]
 header:
-  image: /assets/images/stock.png
+  image: /assets/images/header.png
 author_profile: true
 permalink: /
 ---

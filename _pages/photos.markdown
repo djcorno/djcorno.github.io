@@ -4,7 +4,7 @@ title: "Gallerij"
 excerpt: "Sfeer fotos"
 tags: ["DJ", "Foto", "Feestje"]
 header:
-  image: /assets/images/stock.png
+  image: /assets/images/header.png
 permalink: /photos/
 gallery:
   - url: /assets/images/example2.jpg
