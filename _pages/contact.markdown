@@ -9,7 +9,7 @@ author_profile: true
 permalink: /contact/
 ---
 
-Wilt u boeken of aanvullende info. Neem dan gerust contact op:
+Wilt u boeken of aanvullende info! Neem dan gerust contact op:
 
 <img class="fas fa-fw fa-envelope-square"/> Via [info@djcorno.nl](mailto:info@djcorno.nl)
 
