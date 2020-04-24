@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Party DJ Corno voor een supergeslaagd feest!!"
+title: " EEN SUPER GESLAAGD FEEST MET PARTY DJ CORNO!!!"
 excerpt: "Home page DJ Corno"
 tags: ["DJ"]
 header:
@@ -10,6 +10,21 @@ permalink: /
 ---
 
 
-Of het nu is voor een bruiloft, je 12,5 jarig huwelijk of je 50e verjaardag. Of het nu een 70's/80's of 90's party is. Of Lekker Nederlandstalig of top 40, DJ Corno zorgt met zijn uitgebreide licht- en geluidsinstallatie en meer als 30 jaar ervaring dat de dansvloer gevuld wordt en gevuld blijft.  Van tevoren is er altijd contact m.b.t. de gewenste muziek. Het is tenslotte jouw/jullie feest! Vraag naar de mogelijkheden voor jouw feest en neem contact op. 
+Ben je op zoek naar een DJ voor een:
+-	Bruiloft
+-	Verjaardag
+-	Bedrijfsfeest
+-	70’s, 80’s, 90’s party
+-	Nederlandstalige avond
+-	Themafeest
+-	Braderie
 
-Ook bij evenementen kan ik het geluid en het licht regelen t.b.v. artiesten, koren en bandjes.
+Party DJ Corno heeft al meer dan 30 jaar ervaring met het verzorgen van de muzikale omlijsting bij uiteenlopende feesten en kleinschalige evenementen. 
+
+Graag maak ik voorafgaand aan het feest een afspraak met jou om al jouw wensen en de mogelijkheden met elkaar te bespreken. 
+
+Alleen verzorging van licht en geluid nodig:
+
+Voor het verzorgen van licht en geluid bij optredens van bijvoorbeeld artiesten, zangkoren of (cover-) bands kun je mij ook boeken. 
+
+Wil je meer informatie of heb je nog vragen bel mij gerust op nummer 06-41214967 of stuur een mail naar info@djcorno.nl. 
