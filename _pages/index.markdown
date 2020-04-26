@@ -25,6 +25,6 @@ Graag maak ik voorafgaand aan het feest een afspraak met jou om al jouw wensen e
 
 <H1>Alleen verzorging van licht en geluid nodig:
 
-Voor het verzorgen van licht en geluid bij optredens van bijvoorbeeld artiesten, zangkoren of (cover-) bands kun je mij ook boeken. 
+<p>Voor het verzorgen van licht en geluid bij optredens van bijvoorbeeld artiesten, zangkoren of (cover-) bands kun je mij ook boeken. 
 
 Wil je meer informatie of heb je nog vragen bel mij gerust op nummer 06-41214967 of stuur een mail naar info@djcorno.nl. 
