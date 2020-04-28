@@ -13,11 +13,17 @@ De redenen waarom je een feest wilt geven, zijn heel uiteenlopend. Je gaat bijvo
 De muziekstijlen die ik draai zijn heel divers. Zo heb ik onder andere in mijn repertoire:
 
 •	Top 40
+
 •	60’s/70’s/80’s/90’s/00’s
+
 •	Nederlandstalig
+
 •	Rock
+
 •	Latin
+
 •	Dance 
+
 •	Après-ski.
 
 Zit jouw muziekstijl hierboven niet bij, dan is dat geen probleem. Ook andere muziekstijlen zijn uiteraard bespreekbaar.
