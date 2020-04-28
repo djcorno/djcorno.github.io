@@ -11,6 +11,7 @@ permalink: /music/
 De redenen waarom je een feest wilt geven, zijn heel uiteenlopend. Je gaat bijvoorbeeld trouwen of je wilt jouw verjaardag met een knalfeest vieren. Eén ding weet je wel zeker, muziek mag op jouw feest niet ontbreken. Dan ben je bij mij aan het juiste adres.
 
 De muziekstijlen die ik draai zijn heel divers. Zo heb ik onder andere in mijn repertoire:
+
 •	Top 40
 •	60’s/70’s/80’s/90’s/00’s
 •	Nederlandstalig
