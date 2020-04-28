@@ -9,17 +9,7 @@ author_profile: true
 permalink: /bio/
 ---
 
-Al voor mijn 16e verjaardag was ik al bezig met de bouw van mijn eerste DJ Booth en knipperlampen om zo mijn eigen drive-in-show te maken.
-Op onze familiereünie mocht ik toen voor het eerst voor publiek mijn muziek draaien. 
-Een paar vrienden van mij hadden ook een drive-in-show en een paar jaar later hebben we de boel samengevoegd.
-Toen ik eenmaal bij de marine werkzaam was heb ik hier afscheid van genomen maar ben wel altijd muziek blijven draaien op de feestjes voor vrienden en familie. 
-Ik deed dit toen met gehuurde apparatuur. 
-Aan boord bij de marine had ik mijn eigen radioshow en verzorgde de muziek op de barbecues en feestjes. 
-In mijn vrije tijd ging ik vaak mee met een geluid- en lichtverhuurbedrijf en mocht ik meehelpen bij de op- en afbouw van de apparatuur bij allerlei bandjes en evenementen. 
-Later ging ik steeds meer doen en mocht ik eerst het licht bedienen en uiteindelijk ging ik met een eigen setje op pad om het geluid van een bandje te doen.
+Al voor mijn 16de verjaardag was ik bezig met het bouwen van mijn eerste DJ Booth en knipperlampen om zo mijn eigen drive-in-show te maken. Op onze familiereünie heb ik toen voor het eerst voor publiek als Party DJ opgetreden en dat beviel van beiden kanten super goed. Een paar vrienden hadden toendertijd ook een drive-in-show en na een aantal jaren hebben we besloten om beide drive-in-shows samen te voegen. Toen ik in dienst ging bij de marine was dit echter niet meer te combineren en was ik genoodzaakt met de drive-in-show te stoppen. Aan boord van een marineschip had ik vervolgens een eigen radioshow en verzorgde ik ook de muziek op de barbecues en feestavonden. Ook in mijn vrije tijd ben ik altijd wel muziek blijven draaien op feestjes van vrienden en familie. Hiervoor huurde ik dan de benodigde apparatuur in. Bij dit geluid- en lichtverhuurbedrijf heb ik tevens regelmatig meegeholpen bij het op- en afbouwen van de apparatuur bij allerlei bandjes en evenementen. Nadat ik hier de nodige ervaring had opgedaan, ging ik uiteindelijk met een eigen set op pad om het geluid en/of licht van een band te verzorgen.
 
-Een aantal jaren geleden ben ik weer begonnen om op feestjes muziek te draaien. 
-Dit deed ik bij camping Meck in Maarsbergen waar alle licht- en geluid aanwezig was zodat ik alleen maar mijn muziek mee hoefde te nemen.
-Omdat gasten op deze feestjes steeds meer vroegen of ik op hun feestje wilde draaien (op een andere locatie) ben ik gaan investeren in mijn eigen licht- en geluidsinstallatie. 
-Dit is nu geresulteerd dat ik compleet zelfvoorzienend ben en een goede geluidsinstallatie heb met een vermogen welke genoeg is voor een zaal met 400 personen. 
-Ook heb ik een mooie lichtinstallatie welke ik qua grootte kan aanpassen aan de zaal. 
+Een aantal jaren geleden ben ik weer begonnen als Party DJ. Allereerst bij camping Meck te Maarsbergen. Op deze locatie was alle benodigde licht- en geluidsapparatuur aanwezig, zodat ik alleen mijn muziek mee hoefde te nemen. Naar aanleiding van deze feestjes kreeg ik steeds meer verzoeken om ook op andere locaties de muziek te verzorgen. Toen ben ik gaan investeren in mijn eigen licht- en geluidsinstallatie. Dit heeft geresulteerd in een goede geluidsinstallatie met een vermogen die voldoende is voor een zaal tot 200 personen en een lichtinstallatie die qua grootte aangepast kan worden aan de feestlocatie. 
+ 
