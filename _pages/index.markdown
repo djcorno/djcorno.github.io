@@ -1,6 +1,6 @@
 ---
 layout: single
-title: " EEN SUPER GESLAAGD FEEST MET PARTY DJ CORNO!!!"
+title: " Een supergeslaagd feest met allround/party DJ Corno"
 excerpt: "Home page DJ Corno"
 tags: ["DJ"]
 header:
@@ -19,7 +19,7 @@ Ben je op zoek naar een DJ voor een:
 -	Themafeest
 -	Braderie
 
-Party DJ Corno heeft al meer dan 30 jaar ervaring met het verzorgen van de muzikale omlijsting bij uiteenlopende feesten en kleinschalige evenementen. 
+Allround/Party DJ Corno heeft al meer dan 30 jaar ervaring met het verzorgen van de muzikale omlijsting bij uiteenlopende feesten en kleinschalige evenementen. 
 
 Graag maak ik voorafgaand aan het feest een afspraak met jou om al jouw wensen en de mogelijkheden met elkaar te bespreken. 
 
