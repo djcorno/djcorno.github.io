@@ -15,6 +15,8 @@ Ben je op zoek naar een DJ voor een:
 -	Verjaardag
 -	Bedrijfsfeest
 -	70’s, 80’s, 90’s party
+-	Foute muziekavond
+-	Apres-skifeest
 -	Nederlandstalige avond
 -	Themafeest
 -	Braderie
